@@ -17,3 +17,7 @@ If you only want to work on the backend:
 
 **Note:**
 The client is configured to run on port 3000 and the server runs on port 4000
+
+
+Website:
+https://jovial-raindrop-fa762f.netlify.app/
