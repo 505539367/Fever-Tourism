@@ -21,3 +21,8 @@ The client is configured to run on port 3000 and the server runs on port 4000
 
 Website:
 https://jovial-raindrop-fa762f.netlify.app/
+
+API:
+OpenTripMap API : https://opentripmap.io/docs
+NYC Crime Map Data API : https://thomaslevine.com/software/nyc-crime-map/
+Weather and GeolocationAPI : https://www.weatherapi.com/docs/
